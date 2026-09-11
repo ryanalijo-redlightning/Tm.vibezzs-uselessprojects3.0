@@ -2,26 +2,25 @@
 
 
 
-# [Project Name] 🎯
+# [Ragebait Website] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Tm.vibezzs]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Ryan Antony Lijo] - [Sahrdaya College of Engineering and Technology]
+- Member 2: [Christo Shammy] - [Sahrdaya College of Engineering and Technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Ragebait Yours Homies With our Ragebait Website]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Ragebaiting The Homies]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[😈😈😈😈]
 
 ## Technical Details
 ### Technologies/Components Used
