@@ -23,28 +23,19 @@
 [😈😈😈😈]
 
 ## Technical Details
-### Technologies/Components Used
+### AI
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [HTML]
+- [Claude Code]
 
 ### Implementation
 For Software:
-# Installation
-[commands]
 
 # Run
-[commands]
+[SHIFT+H(skip)]
 
 ### Project Documentation
-For Software:
+For Software:nil
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -55,19 +46,6 @@ For Software:
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -88,9 +66,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Ryan Antony Lijo]: [Vibe Coding]
+- [Christo Shammy]: [Vibe Coding]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
